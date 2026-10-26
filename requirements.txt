@@ -1,0 +1,10 @@
+# Python 3.11 x64 is the recommended Windows target.
+# PaddlePaddle CPU wheel is installed explicitly by install_dependencies.ps1.
+paddlepaddle==3.2.0
+paddleocr[doc-parser]==3.7.0
+paddlex==3.7.2
+gradio==5.49.1
+Pillow>=11.0,<13.0
+openpyxl>=3.1.5,<4.0
+beautifulsoup4>=4.12,<5.0
+lxml>=5.3,<7.0

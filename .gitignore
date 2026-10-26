@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+output/
+build/
+dist/
+*.spec
+models/paddlex_cache/
+models/READY.json
+models_offline.zip
+wheelhouse/
